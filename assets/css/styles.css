@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+h1{
+    font-family: 'Oxygen', sans-serif;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+#img-header{
+
+    width: 100%;
+    height: auto;
+    margin-left: 0px;
+}
+
+.fundo-preto{
+
+    background-color:black;
+}
+#horario{
+
+    width: 100%;
+    height: auto;
+}
+
+.social:hover {
+    transform: scale(1.0);
+    transition: 0.5s;
+}
+.social {
+    -webkit-transform: scale(0.8);
+    color: #222;
+    
+}
